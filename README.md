@@ -16,7 +16,7 @@
 ## Installation Guide
 1. Download [BetterDiscord](https://betterdiscord.app/).
 2. Download the preferred vaporwave.theme file in [theme-files](https://github.com/qilin2/vaporwave/tree/main/theme-files).
- > <a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" target="_blank">
+ > <a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" id="pseudo-dynamism" target="_blank">
    > AKIHABARA </a> ||
    * Right Click > Save as... > Save as type: Cascading Style Sheet Document > Save
   
