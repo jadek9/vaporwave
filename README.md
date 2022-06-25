@@ -35,3 +35,5 @@
 </a>
 ---
 <a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" target="_blank">AKIHABARA </a>
+
+<a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" download>
