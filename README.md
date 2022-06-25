@@ -1,10 +1,11 @@
 # <p align = 'center'> vaporwave </p>
 
 <!--- THEME VERSIONS --->
-<!--- Version 1: AKIHABARA --->
 
-<p align = 'center'> Theme Versions </p>
-<p align = 'center'> Akihabra </p>
+
+
+<!--- Version 1: AKIHABARA --->
+# <p align = 'center'> AKIHABRA </p>
 
 ![discord_ui](https://github.com/qilin2/vaporwave/blob/main/preview/akihabara/akihabara_discord_ui-.png)
 
