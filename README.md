@@ -14,7 +14,8 @@
 
 ## Installation Guide
 1. Download [BetterDiscord](https://betterdiscord.app/)
-2. Download the preferred [vaporwave.theme]() file.
+2. Download the preferred vaporwave.theme file in [theme-files](https://github.com/qilin2/vaporwave/tree/main/theme-files).
+> [AKIHABARA](https://github.com/qilin2/vaporwave/blob/main/theme-files/vaporwave_akihabara.theme.css) | 
 3. Launch Discord and locate to Settings -> Themes -> Open Themes Folder
 4. Drag the vaporwave.theme file into the folder.
 5. Navigate back to Themes in Discord.
