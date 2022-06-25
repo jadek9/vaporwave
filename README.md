@@ -30,7 +30,7 @@
 <a href="" download></a>
 [AKIHABARA](https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css)
 
-<a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" download rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/qilin2/vaporwave/blob/main/theme-files/vaporwave_akihabara.theme.css" download rel="noopener noreferrer" target="_blank">
    Download File
 </a>
 ---
