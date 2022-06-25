@@ -27,8 +27,11 @@
 * Inspired by [ClearVision](https://github.com/ClearVision/ClearVision-v6).
 * Background Wallpapers by [Alena Aenami](https://www.artstation.com/aenamiart).
 
-<a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" download></a>
+<a href="" download></a>
 [AKIHABARA](https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css)
 
+<a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" download rel="noopener noreferrer" target="_blank">
+   Download File
+</a>
 ---
 <a href="https://qilin2.github.io/themes/theme-files/vaporwave_akihabara.theme.css" target="_blank">AKIHABARA </a>
